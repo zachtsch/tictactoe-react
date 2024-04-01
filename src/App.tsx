@@ -9,8 +9,6 @@ function App() {
         <h2 style={{textAlign:'center'}}>X O</h2>
         <div className='box' style={{border:'1px solid black'}}>
             <Rect disp='X' />
-            <Rect disp='O' />
-            <Rect disp='_' />
         </div>
     </div>
   );
