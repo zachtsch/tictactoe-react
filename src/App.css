@@ -1,3 +1,19 @@
+.main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.rect{
+    background-color: #61dafb;
+    width: 200px;
+    height: 200px;
+}
+
+.box{
+    display: flex;
+}
+
+
 .App {
   text-align: center;
 }
